@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>Hoi screen</title>
+		
+		<style type="text/css">
+			body {
+				margin:0px;
+				padding:0px;
+				background-color:#000000;
+			}
+		</style>
+		
+	</head>
+	<body>
+		<object style="height:0px; width:0px;">
+			<embed src="https://www.youtube.com/v/qQZEmJgFEU8?playlist=qQZEmJgFEU8&autoplay=1&loop=1" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="0" height="0">
+		</object>
+	
+		<img src="http://i.imgur.com/bVXpZNT.jpg" style="max-width:100%; max-height:100%;" alt="" />
+	</body>
+</html>
+
